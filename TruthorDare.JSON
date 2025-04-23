@@ -94,7 +94,7 @@
         "Do 10 pushups and say my name in each",
         "Would <player> dance with <local> ?",
         "Write <player> ‘s name on your body",
-        "Send me a video of you singing"
+        "Send <player> a video of you singing"
 
     ]
 }
