@@ -59,7 +59,9 @@
         "What’s the silliest thing you have an emotional attachment to?",
         "What’s the most embarrassing thing you’ve ever done for love?",
         "Most memorable quote from <player> ?",
-        "Any irrational fears/phobias?"
+        "Any irrational fears/phobias?",
+        "What is your current comfort character?",
+        "Check up time! How are you doing lately? Don't lie"
 
     ], 
     "Dares": [
