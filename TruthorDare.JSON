@@ -61,7 +61,13 @@
         "Most memorable quote from <player> ?",
         "Any irrational fears/phobias?",
         "What is your current comfort character?",
-        "Check up time! How are you doing lately? Don't lie"
+        "Check up time! How are you doing lately? Don't lie",
+        "Would you rather have sex with <player> in secret or not have sex with that person but everyone thinks you did?",
+        "What's your favourite food?",
+        "What's your favourite drink (any kind)",
+        "If you had to choose would you rather have a broken arm or a broken leg and why?",
+        "Have you ever been caught in an embarrasing/awkward moment?",
+        "What is something you dream of doing one day?"
 
     ], 
     "Dares": [
@@ -124,7 +130,10 @@
         "Send <player> the last image you saved to your phone",
         "Send a voice recording of your most seductive moan to <player> (you can delete it after they heard it)",
         "Call your parents name(s) and when they reply don't answer, give them a taste of their own medicine",
-        "Take a group picture!"
+        "Take a group picture!",
+        "One by one, make up a title for each players’ movie about their life",
+        "Call <player> a good boy or good girl",
+        "Text a friend and tell them their hair is on backward"
 
     ]
 }
