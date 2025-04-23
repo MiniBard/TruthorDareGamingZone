@@ -47,7 +47,19 @@
         "What did you do for your first date?",
         "Admit 3 of your guilty pleasures",
         "Did you ever have a dream with someone here? If yes, what was it?",
-        "What is a character you kin? Why?"
+        "What is a character you kin? Why?",
+        "What is the dirtiest thing you've ever said while flirting?",
+        "Is there an item of clothing that always turns you on?",
+        "Have many times have you been in love?",
+        "What part of the body do you find most attractive?",
+        "What is the most sensitive part on your body? (non sexual)",
+        "Favourite Disney movie?",
+        "Favourite Pixar movie?",
+        "Fuck, Marry, Kill?",
+        "What’s the silliest thing you have an emotional attachment to?",
+        "What’s the most embarrassing thing you’ve ever done for love?",
+        "Most memorable quote from <player> ?",
+        "Any irrational fears/phobias?"
 
     ], 
     "Dares": [
@@ -97,7 +109,18 @@
         "Would <player> dance with <local> ?",
         "Write <player> ‘s name on your body",
         "Send <player> a video of you singing",
-        "End every sentence with 'OwO' or 'Senpi' until your next turn"
+        "End every sentence with 'OwO' or 'Senpi' until your next turn",
+        "Text someone of your choice a code word that means ‘I love you’ for the rest of the game",
+        "Run outside and shout 'I am the superhero this city needs!'",
+        "Kiss the neck of the person to your left",
+        "Sit on <player> 's lap and whisper something suggestive in their ear",
+        "Call a random contact on your phone and sing 'Happy Birthday' to them, even if it’s not their birthday",
+        "Put on your silliest avi",
+        "Give yourself 3 genuine compliments, truthfully",
+        "Give <player> a genuine compliment",
+        "Talk in the most suggestive voice you can until your next turn",
+        "Send <player> the last image you saved to your phone",
+        "Send a voice recording of your most seductive moan to <player> (you can delete it after they heard it)"
 
     ]
 }
