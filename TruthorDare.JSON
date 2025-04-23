@@ -43,9 +43,11 @@
         "What’s the most useless piece of information you know?",
         "If you were given the blessing of reincarnation, what would you like to become?",
         "Where are you ticklish?",
-        "In which clothing/avi do you like me the most?",
+        "In which clothing/avi do you like <player> in the most?",
         "What did you do for your first date?",
-        "Admit 3 of your guilty pleasures"
+        "Admit 3 of your guilty pleasures",
+        "Did you ever have a dream with someone here? If yes, what was it?",
+        "What is a character you kin? Why?"
 
     ], 
     "Dares": [
@@ -94,7 +96,8 @@
         "Do 10 pushups and say my name in each",
         "Would <player> dance with <local> ?",
         "Write <player> ‘s name on your body",
-        "Send <player> a video of you singing"
+        "Send <player> a video of you singing",
+        "End every sentence with 'OwO' or 'Senpi' until your next turn"
 
     ]
 }
