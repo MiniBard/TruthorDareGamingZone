@@ -109,7 +109,8 @@
         "Who's the one person you'd ruin a relationship to sleep with- no hesitation",
         "Who's someone you'd let do ANYTHING to you without even asking what it is?",
         "Jabe you ever been choked or choked someone during sex? Did you love it?",
-        "What's something you'd let someone do to you IF they dared to ask?"
+        "What's something you'd let someone do to you IF they dared to ask?",
+        "Ask the group to vote: Who's the Dom and who's the Sub between you and <player>"
 
     ], 
     "Dares": [
@@ -225,7 +226,11 @@
         "DM your enemy or rival: 'Bet I'm better in bed than you'",
         "Ask <player> what they'd do if you were theirs for one night",
         "Whisper to <player> how you'd tie them up- describe it in full detail",
-        "Let <player> describe you as a sexual parter in 3 words"
+        "Let <player> describe you as a sexual parter in 3 words",
+        "You and <player> text 'We made a mistake last night' to someone you BOTH know",
+        "Let <player> give you a seduction score from 1-10 after you flirt with them",
+        "You and <player> pick out dares for each other, but they must be equally risky",
+        "Grab <player> and act out a fake breakup, then immediately switch to a fake hookup"
 
     ]
 }
