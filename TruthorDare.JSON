@@ -67,7 +67,25 @@
         "What's your favourite drink (any kind)",
         "If you had to choose would you rather have a broken arm or a broken leg and why?",
         "Have you ever been caught in an embarrasing/awkward moment?",
-        "What is something you dream of doing one day?"
+        "What is something you dream of doing one day?",
+        "What is that one thing that you like doing which people would never expect from you?",
+        "Have you ever had a near-death experience?",
+        "Have you ever been rejected?",
+        "Which song turns you on?",
+        "Who is the person in the room that you would crush on?",
+        "What would you buy <player> if you won $5000?",
+        "Whom do you lie to the most?",
+        "What aspect of your personality have you kept hidden?",
+        "What is the biggest thing you have tried to escape?",
+        "What will be more thrilling: angry sex or makeup sex?",
+        "Have you ever had a crush on someone older than you?",
+        "Have you ever had a crush on someone younger than you?",
+        "When was a time you were so turned on you couldn’t stand it?",
+        "Do you think it is possible to love somebody at first sight?",
+        "What physical features do people compliment you for?",
+        "Do you cover your eyes during a scary part in the movie?",
+        "",
+        "",
 
     ], 
     "Dares": [
@@ -133,7 +151,18 @@
         "Take a group picture!",
         "One by one, make up a title for each players’ movie about their life",
         "Call <player> a good boy or good girl",
-        "Text a friend and tell them their hair is on backward"
+        "Text a friend and tell them their hair is on backward",
+        "Yell out the first word that pops into your mind",
+        "Go to <player> and whisper your deepest fantasies into their ear",
+        "Narrarate the scene like it's a Wattpad fanfiction until your next turn",
+        "Draw a portrait of <player>",
+        "Text your crush that you want to go on a date",
+        "Send <player> a screenshot of your call history",
+        "Choose a player and kiss them",
+        "Close your eyes and text <player>",
+        "",
+        "",
+        "",
 
     ]
 }
