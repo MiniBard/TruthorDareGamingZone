@@ -119,7 +119,8 @@
         "What's one thing about yourself and <player> would explore if nobody ever found out?",
         "What's the most morally wrong thing you've done that you still don't regret",
         "What's one rumor about you that's true, but you've never admitted it?",
-        "Who's someone you'd sleep with once, no strings, even if it ruined everything?"
+        "Who's someone you'd sleep with once, no strings, even if it ruined everything?",
+        "What's the most embarrassing thing you do for comfort/when comforting yourself?"
 
     ], 
     "Dares": [
@@ -239,7 +240,8 @@
         "You and <player> text 'We made a mistake last night' to someone you BOTH know",
         "Let <player> give you a seduction score from 1-10 after you flirt with them",
         "You and <player> pick out dares for each other, but they must be equally risky",
-        "Grab <player> and act out a fake breakup, then immediately switch to a fake hookup"
+        "Grab <player> and act out a fake breakup, then immediately switch to a fake hookup",
+        "Get <player> to slap you on the face"
 
     ]
 }
