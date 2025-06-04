@@ -120,7 +120,13 @@
         "What's the most morally wrong thing you've done that you still don't regret",
         "What's one rumor about you that's true, but you've never admitted it?",
         "Who's someone you'd sleep with once, no strings, even if it ruined everything?",
-        "What's the most embarrassing thing you do for comfort/when comforting yourself?"
+        "What's the most embarrassing thing you do for comfort/when comforting yourself?",
+        "Have you ever had a gay panic? If so, tell us the funniest one you can remember",
+        "Do you have any secret talents or skills you never talked about?",
+        "Do you know how to play any instruments? Do you sing?",
+        "How gay is it to kiss a woman?",
+        "How gay is it to kiss a man?",
+        "How gay is it to kiss a enby?"
 
     ], 
     "Dares": [
@@ -128,9 +134,9 @@
         "Give a hug to <player>.",
         "Mimic <player> and let other guess who it is",
         "Sit on <player> ‘s lap until your next turn"
-        "Do <range[5-10]> push ups",
+        "Do <range[5-15]> push ups",
         "Do <range[10-20]> squats",
-        "Do <range[5-10]> sit ups",
+        "Do <range[10-15]> sit ups",
         "Try to fluster <player>",
         "Kiss the most attractive player here",
         "Kiss the least attractive player here",
@@ -217,7 +223,7 @@
         "Tell <player> what you'd do if you were alone with them",
         "Try to make <player> blush",
         "Moan a random word like it's your favourite word",
-        "Use only seductive phrases for 2 cycles",
+        "Use only seductive phrases for a full cycle",
         "Let <player> massage your inner thighs",
         "Let <player> give you a spicy new nickname",
         "Describe in detail how you'd seduce <player>",
@@ -241,7 +247,13 @@
         "Let <player> give you a seduction score from 1-10 after you flirt with them",
         "You and <player> pick out dares for each other, but they must be equally risky",
         "Grab <player> and act out a fake breakup, then immediately switch to a fake hookup",
-        "Get <player> to slap you on the face"
+        "Get <player> to slap you on the face",
+        "Call Little Caesars amd ask them who is Caesar and why are they little",
+        "Do you know any other languages? If so, say something either seductively or threateningly in it, even if what you are saying is completely unrelated",
+        "Sing a snipet of a song of your choice",
+        "Confess your true love to <player>",
+        "Don’t use your hands until your next turn",
+        "Tell the group two truths and one lie and have them guess the lie"
 
     ]
 }
