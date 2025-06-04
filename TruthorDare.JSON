@@ -126,7 +126,7 @@
         "Do you know how to play any instruments? Do you sing?",
         "How gay is it to kiss a woman?",
         "How gay is it to kiss a man?",
-        "How gay is it to kiss a enby?"
+        "How gay is it to kiss a enby?",
 
     ], 
     "Dares": [
@@ -253,7 +253,7 @@
         "Sing a snipet of a song of your choice",
         "Confess your true love to <player>",
         "Don’t use your hands until your next turn",
-        "Tell the group two truths and one lie and have them guess the lie"
+        "Tell the group two truths and one lie and have them guess the lie",
 
     ]
 }
