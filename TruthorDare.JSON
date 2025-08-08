@@ -131,6 +131,7 @@
         "What is your impression on the type of person <player> is?",
         "Do you trust people easily?",
         "Do you prefer slow-burn romance or love-at-first-sight energy?",
+        "What is your favourite flower/plant. Any reasons to why? Do you know it's symbolism/meaning?",
 
     ], 
     "Dares": [
@@ -265,4 +266,5 @@
 
     ]
 }
+
 
