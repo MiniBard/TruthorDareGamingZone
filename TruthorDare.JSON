@@ -132,6 +132,7 @@
         "Do you trust people easily?",
         "Do you prefer slow-burn romance or love-at-first-sight energy?",
         "What is your favourite flower/plant. Any reasons to why? Do you know it's symbolism/meaning?",
+        "Would you take head from <player>?",
 
     ], 
     "Dares": [
@@ -250,7 +251,7 @@
         "Let <player> describe you as a sexual parter in 3 words",
         "You and <player> text 'We made a mistake last night' to someone you BOTH know",
         "Let <player> give you a seduction score from 1-10 after you flirt with them",
-        "You and <player> pick out dares for each other, but they must be equally risky",
+        "You and <player> pick out dares for each other, but they must be equally risky or tame",
         "Grab <player> and act out a fake breakup, then immediately switch to a fake hookup",
         "Get <player> to slap you on the face",
         "Call Little Caesars amd ask them who is Caesar and why are they little",
@@ -263,8 +264,11 @@
         "Read out loud the last five things you googled",
         "Text your crush “thinking about you 👀” — no explanation.",
         "Pick someone in this room and (lovingly...or not) roast them for one minute straight",
+        "Act like a character the majority chooses for a cycle",
+        "Give us a vibrant preformance of the catchiest song you got in your mind right now (just a part is fine too, as long as its flashy!)",
 
     ]
 }
+
 
 
