@@ -136,6 +136,10 @@
         "What is something you aspire to become or achieve?",
         "Latest kin?",
         "Current strongest hyperfixation?",
+        "Do you feel like the way you act with the people here is consistant with who you are? Do you feel genuine?",
+        "Tell us a dumb quote either you said or someone you know said, no context.",
+        "If you could have any power, what would it be?",
+        "Reverse question! Everyone else has to agree on a word that best describes you! Could be anything, aesthetic, descriptor, personality trait, etc.",
 
     ], 
     "Dares": [
@@ -158,7 +162,7 @@
         "Give a one-word 'roast' to each other player",
         "Sing and dance to YMCA without any music",
         "DRINK WATER",
-        "Make <player> feel horny",
+        "Make <player> feel horny (good luck)",
         "Talk in a French Accent",
         "Talk with your tongue sticking out until your next turn",
         "Seduce a member of the same gender in the group",
@@ -224,7 +228,7 @@
         "Let <player> choose your dare",
         "Do your best evil super villian voice",
         "Speak only using quotes from movies until your next turn",
-        "Let <player> dare you privately",
+        "Let <player> dare you privately (DM it on discord or smth)",
         "Let the group dare you to do anything they agree on",
         "Say something that turns you on",
         "Let the group vote for who you have to flirt with",
@@ -272,9 +276,14 @@
         "You're now <player>'s dare buddy for 3 cycles!",
         "slap <player> like it's personal... unless it is??",
         "Get slapped by <player>, wonder what you did to deserve it",
+        "Who is your closest friend here currently. It's only natural",
+        "Bite <player>. The nature of the bite is yours to decide",
+        "Have a staredown with <player>. First person to fold gets slapped (or any other punishment the majority chooses)",
+        "Mercy! You get to make <player> do something of your choosing",
 
     ]
 }
+
 
 
 
