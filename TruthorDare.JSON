@@ -133,6 +133,9 @@
         "Do you prefer slow-burn romance or love-at-first-sight energy?",
         "What is your favourite flower/plant. Any reasons to why? Do you know it's symbolism/meaning?",
         "Would you take head from <player>?",
+        "What is something you aspire to become or achieve?",
+        "Latest kin?",
+        "Current strongest hyperfixation?",
 
     ], 
     "Dares": [
@@ -266,9 +269,13 @@
         "Pick someone in this room and (lovingly...or not) roast them for one minute straight",
         "Act like a character the majority chooses for a cycle",
         "Give us a vibrant preformance of the catchiest song you got in your mind right now (just a part is fine too, as long as its flashy!)",
+        "You're now <player>'s dare buddy for 3 cycles!",
+        "slap <player> like it's personal... unless it is??",
+        "Get slapped by <player>, wonder what you did to deserve it",
 
     ]
 }
+
 
 
 
