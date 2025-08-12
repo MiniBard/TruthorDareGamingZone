@@ -45,7 +45,7 @@
         "Where are you ticklish?",
         "In which clothing/avi do you like <player> in the most?",
         "What did you do for your first date?",
-        "Admit 3 of your guilty pleasures",
+        "Admit 3 of your guilty pleasures (This means anything you really enjoy of any nature)",
         "Did you ever have a dream with someone here? If yes, what was it?",
         "What is a character you kin? Why?",
         "What is the dirtiest thing you've ever said while flirting?",
@@ -283,6 +283,7 @@
 
     ]
 }
+
 
 
 
