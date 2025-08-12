@@ -33,7 +33,7 @@
         "Who here would survive a horror film, who would be the first to go? Why?",
         "What is your idea of romance?",
         "Do you prefer a gentle kiss or a wild kiss?",
-        "Are you having an erection right now?",
+        "Strangest recent hear me out?",
         "Have you had fantasies about anybody from the room?",
         "Do you ever just want to tear off <player> ‘s clothes?",
         "What turns you off?",
@@ -62,7 +62,7 @@
         "Any irrational fears/phobias?",
         "What is your current comfort character?",
         "Check up time! How are you doing lately? Don't lie",
-        "Would you rather have sex with <player> in secret or not have sex with that person but everyone thinks you did?",
+        "Would you rather be freaky with <player> in secret or not with that person but everyone thinks you are?",
         "What's your favourite food?",
         "What's your favourite drink (any kind)",
         "If you had to choose would you rather have a broken arm or a broken leg and why?",
@@ -77,7 +77,7 @@
         "Whom do you lie to the most?",
         "What aspect of your personality have you kept hidden?",
         "What is the biggest thing you have tried to escape?",
-        "What will be more thrilling: angry sex or makeup sex?",
+        "Last time you took a shower?",
         "Have you ever had a crush on someone older than you?",
         "Have you ever had a crush on someone younger than you?",
         "When was a time you were so turned on you couldn’t stand it?",
@@ -186,7 +186,7 @@
         "Go on a live creators stream and try to get noticed within 5 minutes",
         "Take a crazy selfie with each member of the group",
         "Do 10 pushups and say <player> 's name in each",
-        "Would <player> dance with <local> ?",
+        "Would <player> give <local> the honor to a dance?",
         "Write <player> ‘s name on your body",
         "Send <player> a video of you singing",
         "End every sentence with 'OwO' or 'Senpi' until your next turn",
@@ -255,7 +255,7 @@
         "DM your enemy or rival: 'Bet I'm better in bed than you'",
         "Ask <player> what they'd do if you were theirs for one night",
         "Whisper to <player> how you'd tie them up- describe it in full detail",
-        "Let <player> describe you as a sexual parter in 3 words",
+        "Let <player> describe you in 3 words",
         "You and <player> text 'We made a mistake last night' to someone you BOTH know",
         "Let <player> give you a seduction score from 1-10 after you flirt with them",
         "You and <player> pick out dares for each other, but they must be equally risky or tame",
@@ -283,6 +283,7 @@
 
     ]
 }
+
 
 
 
