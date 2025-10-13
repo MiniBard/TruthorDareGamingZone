@@ -1,13 +1,11 @@
 {
-    "DeckName": "Truth or Dare",
-
+    "DeckName": "Truth or Dare General",
     "DeckBy": "Random Sillies with no Self Respect",
-
     "Truths": [
         "From 1-10 how would you rate <player> on being freakyy?",
         "Who in this room has the most attractive voice in your opinion? Any reason why?",
         "Tell <player> <range[1-10]> facts about yourself.",
-        "<local>, who do you like here the most (Closest friend rn? Any other definition works too)?"
+        "<local>, who do you like here the most (Closest friend rn? Any other definition works too)?",
         "Do you have a phantom sense? If yes, where?",
         "What was the most embarrassing thing to have happened in the past month?",
         "Put on your most questionable avatar",
@@ -17,7 +15,7 @@
         "Who do you trust the most here?",
         "Who do you trust the least here?",
         "What would your dream job be?",
-        "What is an instant deal breaker in a new relationship or friendhship?",
+        "What is an instant deal breaker in a new relationship or friendship?",
         "What was the last piece of media that made you cry?",
         "Where are you ticklish?",
         "What happened the last time you got really happy?",
@@ -42,7 +40,7 @@
         "Who among the players do you think is the best at rage-baiting?",
         "What’s the most useless piece of information you know?",
         "If you were given the blessing of reincarnation, what would you like to become?",
-        "Are you the preformer type? Or the type to support from the shadows?",
+        "Are you the performer type? Or the type to support from the shadows?",
         "In which clothing/avi do you like <player> in the most?",
         "What did you do for your most fun date? Friend dates count",
         "Admit 3 of your guilty pleasures (This means anything you really enjoy of any nature)",
@@ -53,8 +51,8 @@
         "Have many times have you been in love?",
         "What is a hobby you find attractive?",
         "What is the most sensitive part on your body? (non sexual)",
-        "Favourite Disney movie?",
-        "Favourite Pixar movie?",
+        "Favorite Disney movie?",
+        "Favorite Pixar movie?",
         "Fuck, Marry, Kill? Contestants are <player> , <player> , <player>",
         "What’s the silliest thing you have an emotional attachment to?",
         "What’s the most embarrassing thing you’ve ever done for love?",
@@ -63,10 +61,10 @@
         "What is your current comfort character?",
         "Check up time! How are you doing lately? Don't lie",
         "Would you rather be freaky with <player> in secret or not with that person but everyone thinks you are?",
-        "What's your favourite food?",
-        "What's your favourite drink (any kind)",
+        "What's your favorite food?",
+        "What's your favorite drink (any kind)",
         "If you had to choose would you rather have a broken arm or a broken leg and why?",
-        "Have you ever been caught in an embarrasing/awkward moment? Here is your chance to explain anything you never got the chance to",
+        "Have you ever been caught in an embarrassing/awkward moment? Here is your chance to explain anything you never got the chance to",
         "What is something you dream of doing one day?",
         "What is that one thing that you like doing which people would never expect from you?",
         "Have you ever had a near-death experience?",
@@ -107,7 +105,7 @@
         "What's something someone once did to you that you secretly hated- but pretended to like?",
         "If you can relive one night from your past, which one and why",
         "Who's the one person you'd ruin your friendship to get a chance with- no hesitation",
-        "Who's someone you'd let do ANYTHING to you without even asking what it is? (within your own boundries ofc)",
+        "Who's someone you'd let do ANYTHING to you without even asking what it is? (within your own boundaries ofc)",
         "Do you have a favorite game? If it's Roblox, what games to do you play the most on there?",
         "Have you ever been in a relationship? Bitchless fuck",
         "Ask the group to vote: Who's the Dom and who's the Sub between you and <player>",
@@ -131,12 +129,12 @@
         "What is your impression on the type of person <player> is?",
         "Do you trust people easily?",
         "What is a romantic/platonic date you want to experience at least once in your life?",
-        "What is your favourite flower/plant. Any reasons to why? Do you know it's symbolism/meaning?",
+        "What is your favorite flower/plant. Any reasons to why? Do you know it's symbolism/meaning?",
         "Would you take head from <player> ?",
         "What is something you aspire to become or achieve?",
         "Latest kin?",
-        "Current strongest hyperfixation?",
-        "Do you feel like the way you act with the people here is consistant with who you are? Do you feel genuine?",
+        "Current strongest hyperfixation?\",",
+        "Do you feel like the way you act with the people here is consistent with who you are? Do you feel genuine?",
         "Tell us a dumb quote either you said or someone you know said, no context.",
         "If you could have any power, what would it be?",
         "Reverse question! Everyone else has to agree on a word that best describes you! Could be anything, aesthetic, descriptor, personality trait, etc.",
@@ -146,15 +144,14 @@
         "What is the worst nickname you were ever given?",
         "Do you think you are a good singer?",
         "How much do you like to cuddle? Put your pride aside",
-        "Whats the lowest amount of time you slept in a night (exculding all-nighters)",
-        "Who do you think would be the best cult leader and why?",
-
-    ], 
+        "What's the lowest amount of time you slept in a night (excluding all-nighters)",
+        "Who do you think would be the best cult leader and why?"
+    ],
     "Dares": [
         "Mute yourself until next turn. Use body language to speak",
-        "Give a hug to <player>.",
+        "Give a hug to <player>",
         "Mimic <player> and let other guess who it is",
-        "Sit on <player> ‘s lap until your next turn"
+        "Sit on <player> ‘s lap until your next turn",
         "Do <range[5-15]> push ups",
         "Do <range[10-20]> squats",
         "Do <range[10-15]> sit ups",
@@ -187,7 +184,7 @@
         "Lightly trace your hands over <player> ‘s lips and whisper, “I’m coming, I’m coming,” five times",
         "Make out like a porn film with a person of your choice",
         "Make <player> your cuddle plushie until your next turn",
-        "Show the group your latest artistic endevor. Art, Music, Edits, Anything artistic goes!",
+        "Show the group your latest artistic endeavor. Art, Music, Edits, Anything artistic goes!",
         "Shave your balls",
         "Imagine or Fantasize about something you want to do and let <player> try to figure it out",
         "Call a random person on your list and do “meowing” for 3 minutes",
@@ -216,7 +213,7 @@
         "Text a friend and tell them their hair is on backward",
         "Yell out the first word that pops into your mind",
         "Go to <player> and whisper your deepest fantasies into their ear",
-        "Narrarate the game like it's a Wattpad fanfiction until your next turn",
+        "Narrate the game like it's a Wattpad fanfiction until your next turn",
         "Draw a portrait of <player>",
         "Text your crush that you want to go on a date",
         "Send <player> a screenshot of your call history",
@@ -242,7 +239,7 @@
         "Text your ex or situationship a unhinged/out of context image/text",
         "Give <player> a nickname based on their vibe",
         "Tell <player> what you'd do if you were alone with them",
-        "Try to make <player> blush, even if its just through embarassment",
+        "Try to make <player> blush, even if its just through embarrassment",
         "Moan the end of your every sentence for 3 cycles (Don't keep quiet now!)",
         "Shave a part of your body of your choice",
         "Let <player> massage your inner thighs",
@@ -251,12 +248,12 @@
         "Ask <player> to pin you against a wall",
         "Lay down and let <player> do what they want to you",
         "Have <player> 'DONIMATE' you for a scene",
-        "Moan 'harder' or 'don't stop' 5 times in a row"
+        "Moan 'harder' or 'don't stop' 5 times in a row",
         "Whisper 'I want you' in <player> 's ear",
         "Put your playlist on shuffle, and for the next song, dance like nobody is watching",
         "Let <player> pick a word- and you must whisper it like it's a dirty secret",
         "Take a dirty or unhinged word you know and make it sound innocent in a sentence (Squak squak squak... Penis)",
-        "Lick your armpit",
+        "Lick your knee",
         "Send <player> your most unhinged image in your gallery",
         "Say 'I dare you to ruin me' on stage and see who might actually try to call your bluff (or is it a bluff)",
         "Pretend to dirty talk in another language and send it to <player> as long as they don't speak that language",
@@ -269,9 +266,9 @@
         "You and <player> pick out dares for each other, but they must be equally risky or tame",
         "Grab <player> and act out a fake breakup, then immediately switch to a fake hookup",
         "When the time is right, try to absolutely scare the shit out of <player>",
-        "Call Little Caesars amd ask them who is Caesar and why are they little",
+        "Call Little Caesars and ask them who is Caesar and why are they little",
         "Deafen/Mute all voices for a cycle and good luck navigating",
-        "Sing a snipet of a song of your choice",
+        "Sing a snippet of a song of your choice",
         "Confess your true love to <player>",
         "Don’t use your hands until your next turn",
         "Tell the group two truths and one lie and have them guess the lie",
@@ -280,7 +277,7 @@
         "Text your crush or homie “thinking about you 👀” — no explanation.",
         "Pick someone in this room and (lovingly...or not) roast them for one minute straight",
         "Act like a character the majority chooses until your next turn",
-        "Give us a vibrant preformance of the catchiest song you got in your mind right now (just a part is fine too, as long as its flashy!)",
+        "Give us a vibrant performance of the catchiest song you got in your mind right now (just a part is fine too, as long as its flashy!)",
         "You're now <player>'s dare buddy for 3 cycles!",
         "Slap <player> like it's personal... unless it is??",
         "Get slapped by <player>, wonder what you did to deserve it",
@@ -293,20 +290,8 @@
         "Lay on <player> 's lap until your next turn",
         "You can't choose dare for 3 rounds",
         "You can't choose truth for 3 rounds",
-        "Go to youtube and listen to 'Boyfriend Crashes Car and Fucking Dies' ASMR",
+        "Go to YouTube and listen to 'Boyfriend Crashes Car and Fucking Dies' ASMR",
         "Go to the corner of the world and pretend to cry. You're on timeout until your next turn",
-        "Only speak in numbers until your next turn",
-
+        "Only speak in numbers until your next turn"
     ]
 }
-
-
-
-
-
-
-
-
-
-
-
