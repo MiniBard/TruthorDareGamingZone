@@ -145,7 +145,12 @@
         "Do you think you are a good singer?",
         "How much do you like to cuddle? Put your pride aside",
         "What's the lowest amount of time you slept in a night (excluding all-nighters)",
-        "Who do you think would be the best cult leader and why?"
+        "Who do you think would be the best cult leader and why?",
+        "What is the most memorable rumor you heard about yourself?",
+        "What is something you regret?",
+        "Favorite spot to be kissed?",
+        "Silliest thing you've done in public",
+        "Do you know how to dance? If not, do you wish to learn to dance? What kinds of dance?"
     ],
     "Dares": [
         "Mute yourself until next turn. Use body language to speak",
@@ -195,7 +200,7 @@
         "Get something soft (Pillow, Plushie..) and scream into it as loud as your environment allows",
         "Send <player> a video of you singing",
         "End every sentence with 'OwO' or 'Senpai' until your next turn",
-        "Text someone of your choice a encrypted message and let them decrypt what you meant",
+        "Text <player> of your choice a encrypted message and let them decrypt what you meant",
         "Run outside and shout 'I am the superhero this city needs!'",
         "Kiss the neck of <player>",
         "Sneak up on <player> from behind and whisper something suggestive in their ear",
@@ -257,7 +262,7 @@
         "Send <player> your most unhinged image in your gallery",
         "Say 'I dare you to ruin me' on stage and see who might actually try to call your bluff (or is it a bluff)",
         "Pretend to dirty talk in another language and send it to <player> as long as they don't speak that language",
-        "DM your enemy or rival: 'Let's start over~'",
+        "DM your enemy, rival, or just someone you compete with often: 'Let's start over~'",
         "Ask <player> what they'd do if you were theirs for one night",
         "Send the group your most unhinged image",
         "Tell your parent/guardian you love them",
@@ -292,6 +297,12 @@
         "You can't choose truth for 3 rounds",
         "Go to YouTube and listen to 'Boyfriend Crashes Car and Fucking Dies' ASMR",
         "Go to the corner of the world and pretend to cry. You're on timeout until your next turn",
-        "Only speak in numbers until your next turn"
+        "Only speak in numbers until your next turn",
+        "Let <player> style your hair/movable parts until the next turn (if your avatar has posable parts)",
+        "Read the last DM you sent to someone in a dramatic/comedic voice of your choosing",
+        "Let <player> choose something to post in one of your group chats (keep it conflict free please)",
+        "Hold a bunch of water in your mouth until your next turn, don't spit it out!",
+        "Draw a self portrait with your eyes closed (There are markers in this world)",
+        "Rapid Fire! Use a word that you think of to describe every person individually, it can be as silly or out-of-context as you wish"
     ]
 }
