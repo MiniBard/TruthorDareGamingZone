@@ -150,7 +150,10 @@
         "What is something you regret?",
         "Favorite spot to be kissed?",
         "Silliest thing you've done in public",
-        "Do you know how to dance? If not, do you wish to learn to dance? What kinds of dance?"
+        "Do you know how to dance? If not, do you wish to learn to dance? What kinds of dance?",
+        "When and how did you meet <player> ?",
+        "Name your favorite quote",
+        "Do a Dare you wuss"
     ],
     "Dares": [
         "Mute yourself until next turn. Use body language to speak",
@@ -303,6 +306,9 @@
         "Let <player> choose something to post in one of your group chats (keep it conflict free please)",
         "Hold a bunch of water in your mouth until your next turn, don't spit it out!",
         "Draw a self portrait with your eyes closed (There are markers in this world)",
-        "Rapid Fire! Use a word that you think of to describe every person individually, it can be as silly or out-of-context as you wish"
+        "Rapid Fire! Use a word that you think of to describe every person individually, it can be as silly or out-of-context as you wish",
+        "Do a voice impression of a character (no repeating characters)",
+        "Lick <player>",
+        "Do a Truth you wuss"
     ]
 }
