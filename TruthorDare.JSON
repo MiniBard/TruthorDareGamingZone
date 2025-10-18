@@ -154,7 +154,20 @@
         "When and how did you meet <player> ?",
         "Name your favorite quote",
         "What is a common behavior you see that you dislike? Is this more common in VRC or IRL?",
-        "Do a Dare you wuss"
+        "Do a Dare you wuss",
+        "Would you rather be blindfolded or handcuffed?",
+        "Would you rather be dominant or submissive?",
+        "Do you prefer your partner to be vocal or quiet?",
+        "You have to pick truth for the next 4 turns, now reroll and suffer",
+        "Have you ever donated to charity / the homeless?",
+        "Out of all the players here, who is the most and least chill?",
+        "How often do you go out/meet up with friends IRL?",
+        "How flexible are you?",
+        "Have you ever fallen in love at first sight?",
+        "How easily do you fall in love?",
+        "Have you ever heard someone unironically bark or meow?",
+        "What is the point of life/being alive in your opinion?",
+        "If you have any Original Characters (OC's), how many do you have?"
     ],
     "Dares": [
         "Mute yourself until next turn. Use body language to speak",
@@ -310,6 +323,19 @@
         "Rapid Fire! Use a word that you think of to describe every person individually, it can be as silly or out-of-context as you wish",
         "Do a voice impression of a character (no repeating characters)",
         "Lick <player>",
-        "Do a Truth you wuss"
+        "Do a Truth you wuss",
+        "Be <player> 's pet until next turn, woof/meow/caw?",
+        "Draw something wholesome :D",
+        "Pretend to be dead for 1 round",
+        "Reroll a Dare, if you don't want to do it, you can choose a different player to do it instead",
+        "You have to pick dare for the next 4 turns, now reroll and suffer",
+        "You can add one word to <player> 's bio",
+        "Name a red flag about <player>",
+        "Name a green flag about <player>",
+        "Cuddle with the person you like the most in this world until your next turn",
+        "Create a new rule. This rule is now in play for the rest of the game, or until this dare is pulled again/conditions are reset",
+        "Make <player> anxious",
+        "Convince <player> to come home with you",
+        "Search up 'Florida man' with your birth month and day. Tell the group one of the results"
     ]
 }
