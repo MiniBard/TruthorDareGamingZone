@@ -133,7 +133,7 @@
         "Would you take head from <player> ?",
         "What is something you aspire to become or achieve?",
         "Latest kin?",
-        "Current strongest hyperfixation?\",",
+        "Current strongest hyperfixation?",
         "Do you feel like the way you act with the people here is consistent with who you are? Do you feel genuine?",
         "Tell us a dumb quote either you said or someone you know said, no context.",
         "If you could have any power, what would it be?",
@@ -339,3 +339,4 @@
         "Search up 'Florida man' with your birth month and day. Tell the group one of the results"
     ]
 }
+
