@@ -82,7 +82,6 @@
         "Do you think it is possible to love somebody at first sight?",
         "What feature or trait do people compliment you for often? (physical or mental)",
         "Do you cover your eyes during a scary part in the movie?",
-        "What do you wish to forget?",
         "Who do you think is the worst singer in your group?",
         "Who do you think is the best singer in your group?",
         "What is one thing that you ate but others would find freaky or exotic?",
@@ -398,4 +397,5 @@
         "Send a flirty voice message to <player>"
     ]
 }
+
 
