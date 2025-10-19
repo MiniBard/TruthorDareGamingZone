@@ -147,7 +147,6 @@
         "What's the lowest amount of time you slept in a night (excluding all-nighters)",
         "Who do you think would be the best cult leader and why?",
         "What is the most memorable rumor you heard about yourself?",
-        "What is something you regret?",
         "Favorite spot to be kissed?",
         "Silliest thing you've done in public",
         "Do you know how to dance? If not, do you wish to learn to dance? What kinds of dance?",
@@ -399,3 +398,4 @@
         "Send a flirty voice message to <player>"
     ]
 }
+
